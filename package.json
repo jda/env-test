@@ -1,0 +1,15 @@
+{
+	"name": "dokku-env-test",
+	"version": "1.0.0",
+
+	"private": true,
+
+	"engines": {
+		"node": ">=0.10.0",
+		"npm": ">=1.3"
+	},
+
+	"dependencies": {
+		"express": "~3.0"
+	}
+}
